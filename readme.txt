@@ -4,4 +4,4 @@ Git is a distributed version control system.
 Git has a mutable index called stage.
 I am a cool boy.
 Creating a new branch is quick and simple.
-
+I added a new branch.
